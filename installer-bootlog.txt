@@ -1,0 +1,20 @@
+Jan 8 07:57:29 == DUPLICATOR PRO INSTALLER BOOTSTRAP v3.5.3==
+Jan 8 07:57:29 ----------------------------------------------------
+Jan 8 07:57:29 Installer bootstrap start
+Jan 8 07:57:29 Using archive F:/NewXampp/htdocs/sunsolar/20180823_mauwebsitethoitrangthietke_89e287c358cbbb408580_20180823092827_archive.zip
+Jan 8 07:57:29 F:\NewXampp\htdocs\sunsolar/dpro-installer already exists
+Jan 8 07:57:29 main.installer.php also exists so not going to extract installer directory
+Jan 8 07:57:29 Didn't need to extract the installer.
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer to 755<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/api to 755<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/assets to 755<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/classes to 755<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/ctrls to 755<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/lib to 755<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/views to 755<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/archive.cfg to 666<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/index.php to 666<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/installer.ste to 666<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/main.download.php to 666<br/>
+Jan 8 07:57:29 Set permissions of F:/NewXampp/htdocs/sunsolar/dpro-installer/main.installer.php to 666<br/>
+Jan 8 07:57:29 No detected errors so redirecting to the main installer. Main Installer URI = http://sunsolar.local:80/dpro-installer/main.installer.php?archive=F%3A%2FNewXampp%2Fhtdocs%2Fsunsolar%2F20180823_mauwebsitethoitrangthietke_89e287c358cbbb408580_20180823092827_archive.zip&bootloader=installer.php&
