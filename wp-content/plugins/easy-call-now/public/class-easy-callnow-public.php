@@ -52,7 +52,7 @@ class Easy_Callnow_Public {
 		$this->plugin_name = $plugin_name;
 		$this->version = $version;
 
-		add_action( 'wp_head', array($this, 'show_call_now_button'), 10, 1 );
+//		add_action( 'wp_head', array($this, 'show_call_now_button'), 10, 1 );
 
 	}
 

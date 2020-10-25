@@ -24,7 +24,7 @@
           <!-- Right Elements -->
           <div class="flex-col hide-for-medium flex-right">
             <ul class="header-nav header-nav-main nav nav-right <?php flatsome_nav_classes('main'); ?>">
-              <?php flatsome_header_elements('header_elements_right'); ?>
+<!--              --><?php //flatsome_header_elements('header_elements_right'); ?>
             </ul>
           </div>
 
