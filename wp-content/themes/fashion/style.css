@@ -14,3 +14,9 @@ Version: 3.0
 
 
 }
+.duy{
+	text-align:center;
+}
+.header-main .nav > li > a {
+	width: 80px;
+}
